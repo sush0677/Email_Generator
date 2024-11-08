@@ -33,5 +33,5 @@ Make sure you have the following installed:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/cold-email-generator.git
+   git clone https://github.com/sush0677/cold-email-generator.git
    cd cold-email-generator
